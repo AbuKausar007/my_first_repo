@@ -2,7 +2,7 @@ h1{
     color:red;
     background-color: yellow;
     font-size: 30px;
-    
+
 }
 h2{
     font-size: 25px;
@@ -10,4 +10,5 @@ h2{
 }
 p{
     font-weight: 900;
+    color: olive;
 }
